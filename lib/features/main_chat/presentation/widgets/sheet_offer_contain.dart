@@ -17,7 +17,7 @@ class SheetOfferContain extends StatelessWidget {
   Widget build(BuildContext context) {
     print('${context.screenWidth}');
     return Container(
-      height: context.screenHeight * 0.42,
+      height: context.screenHeight * 0.53,
       color: ColorsApp.sheetColor,
       child: CustomScrollView(
         slivers: [
