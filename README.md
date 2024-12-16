@@ -1,16 +1,11 @@
-# chat_meet_tinder
+# ChatMeetApp
 
-A new Flutter project.
+ChatMeetApp — это тестовое задание для создания мобильного приложения-знакомства. Основной целью является разработка базовой верстки интерфейса, которая будет 
+симулировать функционал приложения для поиска знакомств (аналог Tinder).
 
-## Getting Started
+## Видео
+Взглянуть можно по этой ссылке -
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<a href="https://www.youtube.com/watch?v=UDvDbV-Vd7E">
+  <img src="https://img.youtube.com/vi/z4cFByrSySg/0.jpg" width="250" />
+</a>
